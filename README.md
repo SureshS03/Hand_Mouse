@@ -31,6 +31,6 @@ Run the script : Hand_Mouse.ipynb
 
 Move the mouse cursor: Use your index finger to point to the desired location on the screen.
 
-Left-click: Bring your index finger tip and thumb tip close together.
+Left-click: Bring your index finger tip and thumb tip close together(touch).
 
-Right-click: Bring your middle finger tip and thumb tip close together.
+Right-click: Bring your middle finger tip and thumb tip close together(touch).
